@@ -9,8 +9,8 @@
   ],
   "users": [
     {
-      "user":"user1",
-      "pass":"pass" // change this to something secure
+      "user": "brad",
+      "pass": "Photopon@1"
     }
   ]
 } 
