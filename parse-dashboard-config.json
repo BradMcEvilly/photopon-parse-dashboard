@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "http://photopon.herokuapp.com/parse",
+      "serverURL": "https://photopon.herokuapp.com/parse",
       "appId": "qyY21OT36AiP5hIEdrzrBvbOS1HgXzIK52oyzrAN",
       "masterKey": "2sVDZTTVJnQ7oX5p81wOPOsB5R7ci929Q3WIOcOs",
       "appName": "Photopon Parse"
