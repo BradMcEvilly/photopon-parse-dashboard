@@ -5,12 +5,22 @@
       "appId": "qyY21OT36AiP5hIEdrzrBvbOS1HgXzIK52oyzrAN",
       "masterKey": "2sVDZTTVJnQ7oX5p81wOPOsB5R7ci929Q3WIOcOs",
       "appName": "Photopon Parse"
+    },
+    {
+      "serverURL" : "https://stephancom-photopon.herokuapp.com/parse",
+      "appId" : "poland-gammon-exhume-accurate",
+      "masterKey" : "slacker-cloth-joey-pan",
+      "appName": "DEV Photopon Parse (stephancom)"
     }
   ],
   "users": [
     {
       "user": "brad",
       "pass": "Photopon@1"
+    },
+    {
+      "user": "stephancom",
+      "pass": "ph0t0p0n!"
     }
   ]
 } 
